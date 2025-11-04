@@ -1,2 +1,2 @@
 # pandas_tasks
-Упражнения по библиотеке Numpy
+Solving practical problems using pandas from the Innowise LMS
